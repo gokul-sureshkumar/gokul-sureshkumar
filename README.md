@@ -9,11 +9,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harishspice&theme=gotham&hide_border=false)<br/> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <a href="https://medium.com/@harishr.shankar">
-    <img src="https://github-readme-medium.vercel.app/?username=harishr.shankar&limit=5&bg=pink&text=black&font=Tektur" alt="Harishspice's Medium" width="600" style="max-width: 100%;"/>
-  </a>
-</div>
+
 
 
 =<div style="display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
